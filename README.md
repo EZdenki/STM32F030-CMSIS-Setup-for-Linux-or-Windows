@@ -26,7 +26,7 @@ Note that this is the same installation as STM32F103-CMSIS-Setup-for-Linux-or-Wi
 7. Download and build a simple Blinky project as a sanity check.<br>
    Navigate to where you want to keep your STM32 projects.<br>
    Then clone the sample blinky project to your PC and move to that directory:<br>
-   ```git clone https://github.com/sandynomike/STM32F030-CMSIS-Blinky && cd STM32F030-CMSIS-Blinky```
+   ```git clone https://github.com/ezdenki/STM32F030-CMSIS-Blinky && cd STM32F030-CMSIS-Blinky```
 8. Connect the ST-Link programmer to a USB port and connect the ST-Link programmer to your Blue Pill. Note that if the
    ST-Link programmer was already connected during the installation process, then you should unplug it from the USB port and
    plug it in again so that is recognized.
@@ -83,7 +83,7 @@ Note that this is the same installation as STM32F103-CMSIS-Setup-for-Linux-or-Wi
    From the command prompt:<br>
    Navigate to where you want to keep your STM32 projects.<br>
    Then clone the sample blinky project to your PC and move to that directory:<br>
-   ```git clone https://github.com/sandynomike/STM32F030-CMSIS-Blinky && cd STM32F030-CMSIS-Blinky```
+   ```git clone https://github.com/ezdenki/STM32F030-CMSIS-Blinky && cd STM32F030-CMSIS-Blinky```
 8. Connect the ST-Link programmer to a USB port and connect the ST-Link programmer to your Blue Pill.<br>
    Note that if the ST-Link programmer was already connected during the installation process, then you should unplug it from
    the USB port and
